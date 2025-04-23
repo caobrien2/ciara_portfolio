@@ -17,7 +17,7 @@ Loyola University Maryland
 ### Projects
 
 #### Project 1 Title
-- !"/images/selfie.JPG" 
+![Inventory_Manager](images/inventory_manager.png)
 - [Read the Report](link-to-report)
 
 ***
