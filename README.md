@@ -1,5 +1,7 @@
 
-# Ciara O'Brien
+(Banner Image)
+
+# Ciara O'Brien 
 
 ### About Me
 Hello! I am a paraprofessional digital marketer in business with a year of expertise in social media management and content creation.
@@ -15,7 +17,7 @@ Loyola University Maryland
 ### Projects
 
 #### Project 1 Title
-- ![Image](link-to-image)
+- !"/images/selfie.JPG" 
 - [Read the Report](link-to-report)
 
 ***
