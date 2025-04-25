@@ -1,6 +1,5 @@
 title: Ciara O'Brien Portfolio 
-logo: images/selfie.JPG
-![Profile_Pic](images/selfie.JPG)
+logo: images/selfie.JPG 
 # description: This is a Portfolio for Ciara O'Brien 
 # show_downloads: true
 theme: jekyll-theme-modernist
