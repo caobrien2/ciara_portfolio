@@ -1,5 +1,7 @@
 
 ![Banner_Image](images/background.avif)
+![Profile_Pic](images/new_selfie.JPG)
+
 
 # Ciara O'Brien 
 
@@ -32,3 +34,6 @@ A grade calculator, made on Excel, is key to balance 5 different courses that te
 ![Personality Test](images/personality_test.png)
 ![Personality Test](images/personality_test_2.png)
 In order to come up with different personalities in my personality test, I started by brainstorming movie characters who each have distinct and iconic characteristics that make each individual unique and distinct. First, I needed to figure out fitting questions and answers that each related to a different personality. Secondly, linking each question to answer was a key step in getting to the final product of an assigned personality. I struggled figuring out a couple different elements to this project, especially since there are various moving parts and if one part is incorrect, there is a domino effect making the rest incorrect as well. One main section I struggled with was figuring out the phrasing for error checking along with remembering to put, for example, question10= input() .upper() at the end of the error check. Another section I struggled with that is not as related to code, is thinking of best suiting answers that match some complexities to each personality. For example, I felt like some of the same answers could apply to different personalities in different ways. With the aid of professor knowledge, I was able to navigate how to approach error checking along with matching each answer with personality type. In the future, I would find a better way to define how the points could range depending on answer and personality type since it can be subjective. 
+
+
+[def]: images/new_selfie.JPG
